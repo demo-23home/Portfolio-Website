@@ -2,7 +2,7 @@
 
 Personal portfolio of Zeyad Salama, a software engineer building full-stack web products with React, Next.js, TypeScript, Python, Django, and PostgreSQL. Built with React, Next.js, TypeScript, and Vinext.
 
-Live site: [demo-23home.github.io/Portfolio-Website](zeyad.pro)
+Live site: [click here](zeyad.pro)
 
 ## Design
 
