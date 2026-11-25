@@ -18,7 +18,7 @@ export const site = {
   phoneDisplay: '+20 101 759 5972',
   github: 'https://github.com/Demo-23home',
   linkedin: 'https://www.linkedin.com/in/demo-23home/',
-  resume: asset('/assets/Zeyad_Salama_Software_Engineer.pdf'),
+  resume: asset('/assets/Zeyad_Salama_Backend_Engineer_CV.pdf'),
   portrait: asset('/assets/Zeyad-portrait.jpg'),
   candid: asset('/assets/Zeyad.jpg'),
   location: 'Egypt',
